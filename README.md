@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-santander.github.io/ECORED_BASE_INFO_SANTANDER/](https://ecoredsena-santander.github.io/ECORED_BASE_INFO_SANTANDER/)
+[https://ecoredsena-santander.github.io/12310041_INFO_CREATIVIDAD_SOLUCION_CONFLICTOS_LABORALES/](https://ecoredsena-santander.github.io/12310041_INFO_CREATIVIDAD_SOLUCION_CONFLICTOS_LABORALES/#/)
 
 #
